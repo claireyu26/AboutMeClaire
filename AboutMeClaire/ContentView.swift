@@ -4,6 +4,7 @@
 //
 //  Created by Student on 6/20/24.
 //
+//Created on June 21, 2024 during Kode With Klossy Mobile App Development.
 
 import SwiftUI
 
@@ -13,7 +14,7 @@ struct ContentView: View {
             HStack {
         
                 VStack{
-                    Text("About Claire")
+                    Text("About Claire!")
                         .font(.largeTitle).bold()
                         Spacer()
                     Spacer()
